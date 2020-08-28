@@ -8,10 +8,10 @@ Current Conclusion Why do so many Dieing People also got tested positiv for covi
 
 
 ## Status Active.
-001 - Project Start: 2019 COVID-19 Distribution Start 27. Januar 2020 (Wikipedia).
-002 - 28.02.2020 RKI Risk low till mid (als „gering bis mäßig“,)
-003 - 17.03.2020 RKI Risk High till Deadly als „hoch“ und für Risikogruppen seit dem 26. März als „sehr hoch“.
-004 - 25.03.2020 Merkel Locksdown Germany Bundestag eine „epidemische Lage von nationaler Tragweite“ fest.
+- 001 - Project Start: 2019 COVID-19 Distribution Start 27. Januar 2020 (Wikipedia).
+- 002 - 28.02.2020 RKI Risk low till mid (als „gering bis mäßig“,)
+- 003 - 17.03.2020 RKI Risk High till Deadly als „hoch“ und für Risikogruppen seit dem 26. März als „sehr hoch“.
+- 004 - 25.03.2020 Merkel Locksdown Germany Bundestag eine „epidemische Lage von nationaler Tragweite“ fest.
     - 28.08.2020 9.359 Dead People that also got positiv tested got Registered that are 1599 People Per Month
     - 
     
